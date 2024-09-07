@@ -44,6 +44,6 @@
 
 ###
 
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/73/10/1d/73101da42ad70d5caae829c77a61a99f.gif" height="300" alt="GIF"  style="display: block; margin: 0 auto;" />
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/73/10/1d/73101da42ad70d5caae829c77a61a99f.gif" height="300" alt="GIF">
+</p>
