@@ -45,5 +45,5 @@
 ###
 
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/fd/2e/99/fd2e99a4e6ffac772e6e1782c724d145.gif" height="300" alt="GIF" style="display: block; margin: 0 auto;" />
+  <img src="https://i.pinimg.com/originals/73/10/1d/73101da42ad70d5caae829c77a61a99f.gif" height="300" alt="GIF"  style="display: block; margin: 0 auto;" />
 </div>
