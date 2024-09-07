@@ -43,6 +43,6 @@
 ###
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/LuidoSZ/LuidoSZ/output/snake.svg" alt="Snake animation" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/LuidoSZ/LuidoSZ/output/snake.svg" alt="Snake animation" style="width: 1000px; height: 80px; margin-right: 30px;" />
   <img align="left" height="180" src="https://i.pinimg.com/originals/fd/2e/99/fd2e99a4e6ffac772e6e1782c724d145.gif" />
 </div>
