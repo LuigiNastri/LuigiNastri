@@ -40,12 +40,7 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
 
-###
-
-<img align="right" height="180" src="https://i.pinimg.com/originals/fd/2e/99/fd2e99a4e6ffac772e6e1782c724d145.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/LuidoSZ/LuidoSZ/output/snake.svg" alt="Snake animation" />
-
-###
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/LuidoSZ/LuidoSZ/output/snake.svg" alt="Snake animation" style="width: 1000px; height: 80px; margin-right: 30px;" />
+  <img align="left" height="180" src="https://i.pinimg.com/originals/fd/2e/99/fd2e99a4e6ffac772e6e1782c724d145.gif" />
+</div>
